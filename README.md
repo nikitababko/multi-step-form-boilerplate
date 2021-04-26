@@ -7,7 +7,7 @@
 1. `npm install` или `yarn install`
 2. Run command `npm start` or `yarn start`.
 
-**Build with:**
+## Build with:
 
 **Frontend:**
 
